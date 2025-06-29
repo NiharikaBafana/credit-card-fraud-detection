@@ -14,18 +14,4 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/cre
 
 ## Getting Started
 
-1. Clone this repo:
-```
-git clone https://github.com/your-username/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
-```
-
-2. Install dependencies:
-```
-pip install -r requirements.txt
-```
-
-3. Run the notebook using Jupyter or JupyterLab.
-
-## License
-This project is licensed under the MIT License.
+ Run the notebook using Jupyter or JupyterLab.
